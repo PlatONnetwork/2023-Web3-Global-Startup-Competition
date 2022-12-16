@@ -158,7 +158,7 @@ https://www.platon.network/en/ecosystem
 
 ## PlatON Idea Bank
 
-For more inspiration, check out the [PlatON Hackathon Ideas Bank]() .
+For more inspiration, check out the [PlatON Hackathon Ideas Bank](https://github.com/PlatONnetwork/2023-Web3-Global-Startup-Competition/blob/main/Developer_Library/PlatON_Hackathon_Ideas_Bank.md) .
 
 One way to implement a hackathon idea is to look at projects already deployed on the mainnet and build a new application based on them with unique features and solving real-world problems.
 
@@ -175,13 +175,14 @@ https://latticex.foundation/grants
 ## Meet PlatON Community
 
 - **Join the PlatON Discord Server**
+
   Check out the PlatON community on Discord - hang out with xx other members and enjoy free voice and text
 
   https://discord.gg/jAjFzJ3Cff
 
 
 
-- **Join the PlatON Forum **
+- **Join the PlatON Forum**
 
   Share your ideas and participate in discussions, get PlatON's latest announcements & event news
 
