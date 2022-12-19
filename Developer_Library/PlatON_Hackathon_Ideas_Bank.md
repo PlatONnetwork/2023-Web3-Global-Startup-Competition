@@ -1,6 +1,6 @@
 # PlatON Hackathon Ideas Bank
 
-This Hackathon aims to encourage developers to actively participate in the development practices on the PlatON.  We encourage participants to create innovative blockchain projects, including infrastructure, applications, peripherals, etc. **The following are some ideas and suggestions from the PlatON community and the participating judges.**
+This Hackathon aims to encourage developers to actively participate in the development practices on the PlatON.  We encourage participants to create innovative blockchain projects, including infrastructure, applications, peripherals, etc. **The following are some ideas and suggestions from the PlatON community.**
 
 ## Infrastructure or underlying protocol layer
 
