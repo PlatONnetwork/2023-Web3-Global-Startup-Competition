@@ -36,7 +36,7 @@ Web3浪潮持续涌动，技术创新层出不穷、应用探索如火如荼。�
 
 报名截止时间：**2023.3.12**
 
-[了解详细信息](/2023-Web3-Global-Startup-Competition/1-Singapore/)
+[了解详细信息](/1-Singapore/)
 
  
 
@@ -48,7 +48,7 @@ Web3浪潮持续涌动，技术创新层出不穷、应用探索如火如荼。�
 
 报名截止时间：**2023.3.19**
 
-[了解详细信息](/2023-Web3-Global-Startup-Competition/2-Bangkok/)
+[了解详细信息](/2-Bangkok/)
 
  
 
@@ -60,7 +60,7 @@ Web3浪潮持续涌动，技术创新层出不穷、应用探索如火如荼。�
 
 报名截止时间：**2023.3.26**
 
-[了解详细信息](/2023-Web3-Global-Startup-Competition/3-Tokyo/)
+[了解详细信息](/3-Tokyo/)
 
  
 
@@ -72,7 +72,7 @@ Web3浪潮持续涌动，技术创新层出不穷、应用探索如火如荼。�
 
 报名截止时间：**2023.4.2**
 
- [了解详细信息](/2023-Web3-Global-Startup-Competition/4-HongKong/)
+ [了解详细信息](/4-HongKong/)
 
  
 
@@ -84,7 +84,7 @@ Web3浪潮持续涌动，技术创新层出不穷、应用探索如火如荼。�
 
 决赛时间：**2023.4.15**
 
- [了解详细信息](/2023-Web3-Global-Startup-Competition/5-Finals-2023_HongKong_Web3_Carnival/)
+ [了解详细信息](/5-Finals-2023_HongKong_Web3_Carnival/)
 
  
 
@@ -150,7 +150,7 @@ Web3浪潮持续涌动，技术创新层出不穷、应用探索如火如荼。�
 
 **赛事合作网络的开发者资源库：**
 
-- [PlatON 开发者资源库](/2023-Web3-Global-Startup-Competition/Developer_Library/PlatON_Developer_Library.md)
+- [PlatON 开发者资源库](/Developer_Library/PlatON_Developer_Library.md)
 
  
 
@@ -169,7 +169,7 @@ a. 比赛需交付的内容包括：
 - **DEMO链接或项目介绍视频链接（可选，视频不超过5分钟，上传到 YouTube等类似网站）**
 - **其他任何额外的支持材料；**
 
-b. 以上交付的内容需上传至Github仓库对应赛区文件夹下创建个人项目文件夹内（取自己对应项目的名字），[查看详细提交指南](/2023-Web3-Global-Startup-Competition/Developer_Library/Project_Submission_Guidelines.md)。
+b. 以上交付的内容需上传至Github仓库对应赛区文件夹下创建个人项目文件夹内（取自己对应项目的名字），[查看详细提交指南](/Developer_Library/Project_Submission_Guidelines.md)。
 
 注：如果PPT不愿意开源，可以发送至活动官方邮箱：XX@XX
 
