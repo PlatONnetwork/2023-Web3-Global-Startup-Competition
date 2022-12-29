@@ -1,10 +1,8 @@
 # 2023 Web3 Global Startup Competition(Draft)
 
+ ![event-kv](Developer_Library/img/event-kv.jpg)
 
 
-*配图（活动主题+口号[在Web3上把你的想法变成现实(Bring your ideas to life on Web3)]，活动周期，奖金，主办方）--待设计*
-
- 
 
 Web3浪潮持续涌动，技术创新层出不穷、应用探索如火如荼。秉持着将数据主权归还给用户、与用户共建共享，开创全新网络时代的愿景，Web3为怀揣创造创新梦想的青年们提供了施展才华的广阔空间。
 
@@ -326,21 +324,19 @@ e. 比赛期间，主办方免费提供三餐、零食及饮料。
 
 ## 主办方
 
-#### **About Alibaba Cloud**
+### **About Alibaba Cloud**
 
 Established in 2009, Alibaba Cloud (www.alibabacloud.com) is the digital technology and intelligence backbone of Alibaba Group. It offers a complete suite of cloud services to customers worldwide, including elastic computing, database, storage, network virtualization services, large-scale computing, security, management and application services, big data analytics, a machine learning platform and IoT services. Alibaba maintained its position as the third leading public cloud IaaS service provider globally since 2018, according to IDC. Alibaba is the world’s third leading and Asia Pacific’s leading IaaS provider by revenue in U.S. dollars since 2018, according to Gartner.
 
 
 
-#### **About HashKey Group**
+### **About HashKey Group**
 
 HashKey Group is an end-to-end digital asset financial services group in Asia. The Group provides a complete ecosystem across the entire digital asset landscape, ranging from trading, custody, venture investment, technologies to Web3 infrastructure. HashKey’s senior team has decades of investment and trading experience, strong business execution and deep market insights gained from tier-one banks, regulators and FinTech ventures. By bringing together the most advanced blockchain research and development and technologies, HashKey identifies potential opportunities and delivers end-to-end solutions that operate within regulatory frameworks with the highest compliance standards. The Group has operations in Hong Kong, Singapore and Japan, and extensive partnerships with FinTech and blockchain solutions providers, academic institutions and associations.
 
-PlatON Logo  + 简介
-
  
 
-#### About PlatON
+### About PlatON
 
 PlatON was initiated and promoted by the LatticeX Foundation. Based on the basic properties of the blockchain and supported by a privacy-preserving computing network, PlatON provides the next-generation Internet basic protocol featuring “computing interoperability”. It builds a computing system jointly assembled by cryptographic algorithms such as verifiable computing, secure multi-party computing, zero-knowledge proof, homomorphic encryption, and blockchain technology to provide public infrastructure under an open-source architecture for global artificial intelligence, distributed application developers, data providers as well as various institutions, communities, and individuals with computing needs.
 
