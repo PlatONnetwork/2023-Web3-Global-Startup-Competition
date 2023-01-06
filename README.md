@@ -167,7 +167,7 @@ a. 比赛需交付的内容包括：
 
 b. 以上交付的内容需上传至Github仓库对应赛区文件夹下创建个人项目文件夹内（取自己对应项目的名字），[查看详细提交指南](/Developer_Library/Project_Submission_Guidelines.md)。
 
-注：如果PPT不愿意开源，可以将资料发送至官方邮箱（报名入围通知邮箱）。
+注：如果PPT不愿意开源，可以将资料发送至官方邮箱（入围通知邮箱）。
 
 https://github.com/PlatONnetwork/2023-Web3-Global-Startup-Competition
 
