@@ -40,7 +40,7 @@ These guidelines will teach you how to submit your project to the GitHub reposit
 
 4. Arrange the files on your own device: First, create a personal project folder (take the name of your corresponding project) under the division folder, and place the files to be submitted in the personal folder.
 
-   | More ActionsFiles to be submitted                            |
+   | Type Submissions in Folder                                   |
    | ------------------------------------------------------------ |
    | Files to be submitted）                                      |
    | PowerPoint demo (required)                                   |

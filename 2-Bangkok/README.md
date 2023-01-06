@@ -8,7 +8,7 @@ Application deadline: **March 19, 2023**
 
 ## Topic
 
-**Technical Infrastructure** - We invite outstanding developers around the world to explore underlying technologies in fields including Layer 2, decentralized data storage, computation, indexing, analysis, smart contracts, developer tools, and blockchain security and build creative, practical solutions. **
+**Technical Infrastructure** - We invite outstanding developers around the world to explore underlying technologies in fields including Layer 2, decentralized data storage, computation, indexing, analysis, smart contracts, developer tools, and blockchain security and build creative, practical solutions. 
 
 
 
@@ -35,6 +35,6 @@ The contents to be delivered in the competition include:
 - **DEMO link or link to the project introduction video (optional; the video should be uploaded to video platforms like YouTube and may not exceed 5 minutes)** ;
 - **Any other support materials** .
 
-Note: If you don't wish to publicly disclose your PowerPoint presentation, you may also send the files to our official mailbox.
+*Note: If you don't wish to publicly disclose your PowerPoint presentation, you may also send the files to our official mailbox.*
 
 

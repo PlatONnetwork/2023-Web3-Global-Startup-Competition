@@ -142,11 +142,12 @@ Tokyo: **April 1, 2023 - April 2, 2023**
 
 Hong Kong: **April 8, 2023 - April 9, 2023**
 
- 
 
- **Developer library of the competition's official partner:**
 
-- [PlatON Developer Library](/Developer_Library/PlatON_Developer_Library.md)
+>  **Developer library of the competition's official partner:**
+>
+> - [PlatON Developer Library](/Developer_Library/PlatON_Developer_Library.md)
+>
 
  
 
@@ -167,7 +168,7 @@ a. You are required to submit the following:
 
 b. You are required to place the above files in your personal project folder (note: please change the name of the folder to your project name) under the relevant division folder of the official GitHub repository. [Click here to check out the Submission Guidelines](/Developer_Library/Project_Submission_Guidelines.md).
 
-Note: If you don't wish to publicly disclose your PowerPoint presentation, you may also send the files to our official mailbox.
+*Note: If you don't wish to publicly disclose your PowerPoint presentation, you may also send the files to our official mailbox.*
 
 https://github.com/PlatONnetwork/2023-Web3-Global-Startup-Competition
 
@@ -191,20 +192,20 @@ e. During the competition, we will provide free meals, snacks, and drinks for al
 
 
 
-## 项目审核
+## Project Review
 
 The review committee will consist of representatives from the sponsor, community KOLs, ambassadors, professionals, senior members of tech communities & university professors, and representatives from VC funds and mainstream blockchain networks. For more information about the judges, please roll down to the bottom of the document.
 
 The review committee will score the entries and select the award winners based on the following metrics.
 
 | Evaluation metrics                              | Score  |
-| ----------------------------------------------- | ------ |
+| :---------------------------------------------- | :----- |
 | Feasibility (25%)                               | 15     |
 | Completeness (16.66%)                           | 10     |
 | Social value (16.66%)                           | 10     |
 | Source code (16.66%)                            | 10     |
 | Project presentation (8.34%)                    | 5      |
-| Compatibility with PlatON (8.34%)               | 5 5    |
+| Compatibility with PlatON (8.34%)               | 5      |
 | Whether based on Alibaba Cloud services (8.34%) | 5      |
 | **Total**                                       | **60** |
 
@@ -228,7 +229,7 @@ The team that receives the most votes during the 2023 Hong Kong Web3 Carnival wi
 
 #### Singapore, Bangkok, and Tokyo (three awards for each division)
 
-##### **1st Place Award *1**
+##### **1st Place Award  * 1**
 
 - 12,000 USDC
 - A 10-minute speech at the 2023 Hong Kong Web3 Carnival
@@ -238,7 +239,7 @@ The team that receives the most votes during the 2023 Hong Kong Web3 Carnival wi
 
 
 
-##### **2nd Place Award *1**
+##### **2nd Place Award  * 1**
 
 - 8,000 USDC
 
@@ -248,7 +249,7 @@ The team that receives the most votes during the 2023 Hong Kong Web3 Carnival wi
 
   
 
-##### **3rd Place Award *1**
+##### **3rd Place Award  * 1**
 
 - 5,000 USDC
 - A $10,000 Alibaba Cloud voucher (valid for one year)
@@ -259,7 +260,7 @@ The team that receives the most votes during the 2023 Hong Kong Web3 Carnival wi
 
 #### Hong Kong (three awards for each category)
 
-##### **1st Place Award *1**
+##### **1st Place Award * 1**
 
 - 12,000 USDC
 - A 10-minute speech at the 2023 Hong Kong Web3 Carnival
@@ -268,7 +269,7 @@ The team that receives the most votes during the 2023 Hong Kong Web3 Carnival wi
 
  
 
-##### **2nd Place Award *1**
+##### **2nd Place Award * 1**
 
 - 8,000 USDC
 - A $10,000 Alibaba Cloud voucher (valid for one year)
@@ -277,7 +278,7 @@ The team that receives the most votes during the 2023 Hong Kong Web3 Carnival wi
 
  
 
-##### **3rd Place Award *1**
+##### **3rd Place Award * 1**
 
 - 5,000 USDC
 - A $10,000 Alibaba Cloud voucher (valid for one year)
@@ -285,7 +286,7 @@ The team that receives the most votes during the 2023 Hong Kong Web3 Carnival wi
 
 
 
-**Every team that has passed the review and is shortlisted can apply for a $1,000 Alibaba Cloud voucher for event preparation. **
+**Every team that has passed the review and is shortlisted can apply for a $1,000 Alibaba Cloud voucher for event preparation**. 
 
 
 
@@ -362,5 +363,9 @@ PlatON was initiated and promoted by the LatticeX Foundation. Based on the basic
  
 
  
+
+---
+
+
 
 *Code License: The MIT License (MIT)*
