@@ -1,120 +1,44 @@
-# Hong Kong,China - 2023 Web3 Global Startup Competition(Draft)
+# Hong Kong,China - 2023 Web3 Global Startup Competition
 
 
 
-报名截止时间：**2023.4.2**
+Application deadline: **April 2, 2023**
 
 
 
-## 赛题
+## Topic
 
-可任意选择本次大赛设置的“技术基础设施”、“金融基础设施”、“Web3创新应用”的三大赛道
+You can choose any one of the three categories,  including Technical Infrastructure, Financial Infrastructure, and Innovative Web3 Application.
 
-- **金融基础设施**—“金融基础设施”是Web3金融体系的必要支撑，基于区块链及关联技术，开发安全高效的创意项目，为Web3金融生态的可持续发展贡献力量。
-- **Web3创新应用**—“Web3创新应用”赛道聚焦各类Web3热门应用方向，诚邀全球优秀开发者发挥奇思妙想，构建创新应用，丰富优化用户体验，呈现更加丰富多彩的Web3世界。参赛者可以构建Web3原生应用，也可以思考如何用区块链的技术特点将Web2应用改造升级成更具用户价值的Web3应用。
-- **技术基础设施**—“技术基础设施”赛道诚邀全球优秀开发者围绕Layer2、去中心化数据存储、计算、索引、分析、智能合约、开发者工具、区块链安全等技术底层方向展开思考，构建极具创意与实用性的方案。
+- **Financial infrastructure** - Financial infrastructure provides essential support for the financial system of the Web3 world. You are required to develop secure, efficient, and creative projects based on blockchain and related technologies, thereby contributing to the sustainable development of the Web3 financial ecosystem. 
 
+- **Technical Infrastructure** - We invite outstanding developers around the world to explore underlying technologies in fields including Layer 2, decentralized data storage, computation, indexing, analysis, smart contracts, developer tools, and blockchain security and build creative, practical solutions. **
 
+- **Innovative Web3 Application** - Focusing on popular Web3 applications, we will invite outstanding developers around the world to tap into their ingenuity and build creative applications to improve user experiences and bring more dynamics to the Web3 world. Contestants can build native Web2 applications or transform Web3 apps into more valuable Web3 apps using the tech features of blockchain
 
-## 比赛日程（具体待定）
 
-比赛时间：**2023.4.8 星期六 - 2023.4.9 星期日**
 
-**#香港站 Web3全球创业大赛** 将于周六早上9:00点开始，热烈欢迎所有参与的本赛区参赛团队。
+## Competition schedule
 
-周六全天，您与您的团队将在主办方提供的专用地点日夜进行项目编码。
 
-项目提交的截止日期是当地时间周日 13:00 点，请按照提交指南提交您的项目作品！
 
-每个项目的获奖者将在周日的#闭幕会议上宣布。 
+*Stay tuned!*
 
 
 
-具体日程表：
 
-| Day1 ( 8 April Saturday)     |                                                       |
-| ---------------------------- | ----------------------------------------------------- |
-| 地点待定/在线，9:00 ~ 10:30  | 开幕式--关于黑客马拉松赛道说明，PlatONNetwork网络介绍 |
-| 地点待定/在线，10:30 ~ 12:00 | 开启团队项目开发工作                                  |
-| 地点待定，12:00 ~ 14:00      | 午餐与休闲时间                                        |
-| 地点待定/在线，14:00 ~ 17:30 | 继续团队项目开发工作                                  |
-| 地点待定，17:30 ~18:30       | 晚餐与休闲时间                                        |
-| 地点待定/在线，18:30 ~ 23:59 | 继续团队项目开发工作，或者自由安排                    |
 
-| Day2 ( 9 April Sunday)        |                                      |
-| ----------------------------- | ------------------------------------ |
-| 地点待定/在线，9:00 ~ 12:00   | 继续团队项目开发工作                 |
-| 地点待定，12:00 ~ 14:00       | 午餐与休闲时间                       |
-| GitHub提交项目作品，截止13:00 | 项目作品提交截止时间                 |
-| 在线，13:00 ~ 14:00           | 挑选入围者审批                       |
-| 地点待定/在线，14:00 ~ 14:30  | 宣布入围者                           |
-| 地点待定/在线，15:00 ~ 17:00  | 项目作品介绍或演示，及评委提问与打分 |
-| 地点待定/在线，17:00 ~ 18:00  | 闭幕式，公布获奖名单                 |
+## Submission Instructions
 
+Each team participating in this competition is required to create a project folder in this directory and store the content of the competition deliverables in the folder by the specified submission deadline, [Click here to check out the Submission Guidelines](/Developer_Library/Project_Submission_Guidelines.md).
 
+The submission deadline is subject to the timetable of the divisions, and you may not submit or modify your project after the deadline.
 
+The contents to be delivered in the competition include:
 
+- **Code link (required; the original code is stored in your personal GitHub repository and is not required for submission)** ;
+- **PowerPoint demo (required);**
+- **DEMO link or link to the project introduction video (optional; the video should be uploaded to video platforms like YouTube and may not exceed 5 minutes)** ;
+- **Any other support materials** .
 
-## 提交说明
-
-参与本赛区的每个参赛团队需要在本目录创建项目文件夹，并在规定的提交截止时间前将比赛交付成果内容存放于文件夹中，[查看详细提交指南]()。
-
-提交截止时间根据赛区日程而定，截止时间后不可再提交或修改比赛成果。
-
-比赛需交付的内容包括：
-
-- **作品代码链接（必选，原代码存放个人GitHub仓库，不用直接提交）**
-- **项目演示PPT（必选）**
-- **DEMO链接或项目介绍视频链接（可选，视频不超过5分钟，上传到 YouTube等类似网站）**
-- **其他任何额外的支持材料；**
-
-注：如果PPT不愿意开源，可以发送至活动官方邮箱：**待定**
-
-
-
-## 比赛场地
-
-
-
-作为曾经的亚洲四小龙，香港一直以来秉持的开放自由的原则接纳各种新鲜事物。在近期颁发的政策来看，更明确了政府对Web3创业者欢迎的*态度*，Web3人士在香港创业将没有任何障碍。
-
-我们很期待接收来自香港社区的兴趣和热情。在香港，一起探讨Web3即将到来的机会，并构建Web3的未来。
-
-这将是一个体验非凡的聚会，加入我们，认识我们，结交来自世界各地的新朋友。
-
-
-
-**场地待定**
-
-
-
-
-
-----
-
-
-
-## 参赛团队及项目
-
-2023.2.15后将持续更新！
-
-
-
-
-
-## 入围名单
-
-待公布(2023.4.9 14:00)
-
-
-
-
-
-
-
-## 获奖名单
-
-待公布(2023.4.9 17:00)
-
-
-
+Note: If you don't wish to publicly disclose your PowerPoint presentation, you may also send the files to our official mailbox.

@@ -1,26 +1,26 @@
-# Project Submission Guidelines(Draft)
+# Project Submission Guidelines
 
 
 
-首先，感谢您参与2023 Web3全球创业大赛！
+Thanks for joining the 2023 Web3 Global Startup Competition!
 
-本大赛总分为四个赛区，每个赛区所有参赛队伍需要在对应赛区的提交截止时间前完成项目作品的提交。
+The competition features four divisions, and you are required to submit your project before the deadline for the corresponding division.
 
-本指南将引导将参赛项目作品提交到GitHub**[2023-Web3-Global-Startup-Competition](https://github.com/PlatONnetwork/2023-Web3-Global-Startup-Competition)** 对应赛区存储库中。
-
-
-
-## 提交流程
+These guidelines will teach you how to submit your project to the GitHub repository  (**[2023-Web3-Global-Startup-Competition](https://github.com/PlatONnetwork/2023-Web3-Global-Startup-Competition)**) corresponding to the relevant division.
 
 
 
-1. 进入官方大赛[GitHub](https://github.com/PlatONnetwork/2023-Web3-Global-Startup-Competition)- `PlatONnetwork/2023-Web3-Global-Startup-Competition` 存储库
+## Submission Process
+
+
+
+1. Enter the official  [GitHub](https://github.com/PlatONnetwork/2023-Web3-Global-Startup-Competition) - `PlatONnetwork/2023-Web3-Global-Startup-Competition` repository of the competition.
 
    
 
-2. 选择“**Fork**”官方大赛仓库至个人GitHub仓库；
+2. Select "**Fork**" to copy the official repository to your personal GitHub repository;
 
-   注：Fork是将本存储库复制一份个人副本。您可以在个人副本上进行任意更改，最后并将您的修改提交原存储库，由仓库管理者审查并合并您的修改。
+   Note: "Fork" means creating a personal copy of the repository. You can make any changes on the personal copy and submit those changes to the original repository, and the admin will review and merge your changes.
 
    ![image-20221216182902819](img/image-20221216182902819.png)
 
@@ -28,7 +28,7 @@
 
    
 
-3. 将个人Fork的大赛仓库副本Clone至本地；
+3. Clone the copy of the Forked repository to your device;
 
    ```
    git clone https://github.com/YOUR_USERNAME/2023-Web3-Global-Startup-Competition.git
@@ -38,14 +38,14 @@
 
 
 
-4. 在本地计算机进行文档更改，在对应赛区文件夹下创建个人项目文件夹（取自己对应项目的名称），将比赛提交内容放置在个人文件夹内。
+4. Arrange the files on your own device: First, create a personal project folder (take the name of your corresponding project) under the division folder, and place the files to be submitted in the personal folder.
 
-   | 文件夹内提交内容                                             |
+   | More ActionsFiles to be submitted                            |
    | ------------------------------------------------------------ |
-   | 作品代码链接（必选，原代码存放个人GitHub仓库，不用直接提交） |
-   | 项目演示PPT（必选）                                          |
-   | DEMO链接或项目介绍视频链接（可选，视频不超过5分钟，上传到 YouTube等类似网站） |
-   | 其他任何额外的支持材料                                       |
+   | Files to be submitted）                                      |
+   | PowerPoint demo (required)                                   |
+   | DEMO link or link to the project introduction video (optional; the video should be uploaded to video platforms like YouTube and may not exceed 5 minutes) |
+   | Any other support material                                   |
 
    
 
@@ -53,7 +53,7 @@
 
    ![image-20221216184123217](img/image-20221216184123217.png)
 
-5. 将本地已更改后的分支推送到个人 Github 账户下的远程分支
+5. Push the changed branch to the remote branch under your Github account;
 
    ```
    git add .
@@ -63,19 +63,19 @@
 
    
 
-6. 通过 PR(Pull Request )将个人修改的副本提交至大赛官方仓库，并写明提交信息，具体流程如下：
+6. Submit a copy of the changes to the official repository through PR (Pull Request) and fill in the required submission information. The specific process is as follows:
 
-   - 进入大赛官方仓库
+   - Enter the official repository.
 
-   - 选择[Pull requests]
+   - Select [Pull requests].
 
-   - 单击"New pull request"
+   - Click on "New pull request".
 
-   - 单击“compare across forks”并从主存储库下拉列表中选择您的存储库。
+   - Click on “compare across forks”, and select your repository on the drop-down list of the main repository.
 
-   - 填写您对该Pull Request的提交说明。
+   - Fill in your submission notes for the Pull Request.
 
-     > PR 提交标题命名规则： 所属赛区-团队名称-项目名称-团队成员 
+     > Here's how you should name the PR: division-team name-project name-team members
 
 ![image-20221216185922969](img/image-20221216185922969.png)
 
@@ -85,5 +85,5 @@
 
 
 
-**若有其他疑问，请在大赛Discord中寻求帮助！**
+**If you have any question, please look for help via the Competition's [Discord](https://discord.gg/KHmAj99fdE) channel!**
 
