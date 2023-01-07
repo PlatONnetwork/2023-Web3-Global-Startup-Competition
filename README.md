@@ -232,7 +232,6 @@ The team that receives the most votes during the 2023 Hong Kong Web3 Carnival wi
 ##### **1st Place Award  * 1**
 
 - 12,000 USDC
-- A 10-minute speech at the 2023 Hong Kong Web3 Carnival
 - 6 tickets to the 2023 Hong Kong Web3 Carnival
 - A $10,000 Alibaba Cloud voucher (valid for one year)
 - Travel subsidy (3,000 USDC)
@@ -263,7 +262,6 @@ The team that receives the most votes during the 2023 Hong Kong Web3 Carnival wi
 ##### **1st Place Award * 1**
 
 - 12,000 USDC
-- A 10-minute speech at the 2023 Hong Kong Web3 Carnival
 - A $10,000 Alibaba Cloud voucher (valid for one year)
 - 6 tickets to the 2023 Hong Kong Web3 Carnival
 
