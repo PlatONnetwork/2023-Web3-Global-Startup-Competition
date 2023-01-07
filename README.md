@@ -14,7 +14,7 @@ Focusing on the most prominent demands of the Web3 industry, the 2023 Web3 Globa
 
 The 2023 Web3 Global Startup Competition is co-hosted by Alibaba Cloud, PlatON, and HashKey Group.
 
-The competition features four global divisions: **Singapore**, **Bangkok**, **Tokyo**, and **Hong Kong, China**, and contestants may choose the division nearest to them. All award-winning teams from each division will gather at the **2023 Hong Kong Web3 Carnival** to present their projects. We believe that the teams will add to the Carnival's splendor with their creative, valuable projects and bring outstanding talents to Hong Kong's Web3 community.
+The competition features four global divisions: **Singapore**, **Bangkok**, **Tokyo**, and **Hong Kong, China**, and contestants may choose the division nearest to them.
 
 
 
@@ -76,9 +76,7 @@ Application deadline: **April 2, 2023**
 
  
 
-#### **Grand Finals - 2023 Hong Kong Web3 Carnival**
-
-Award-winning teams from all four divisions will gather in Hong Kong for the grand finals and award ceremony on the last day of the 2023 Hong Kong Web3 Carnival.
+#### Grand Finals 
 
 The finals will be hosted on **April 15, 2023**
 
@@ -223,7 +221,7 @@ The review committee will score the entries and select the award winners based o
 
 **20,000 USDC**
 
-The team that receives the most votes during the 2023 Hong Kong Web3 Carnival will be the World Champion.
+
 
 
 
@@ -232,7 +230,6 @@ The team that receives the most votes during the 2023 Hong Kong Web3 Carnival wi
 ##### **1st Place Award  * 1**
 
 - 12,000 USDC
-- 6 tickets to the 2023 Hong Kong Web3 Carnival
 - A $10,000 Alibaba Cloud voucher (valid for one year)
 - Travel subsidy (3,000 USDC)
 
@@ -244,16 +241,14 @@ The team that receives the most votes during the 2023 Hong Kong Web3 Carnival wi
 
 - A $10,000 Alibaba Cloud voucher (valid for one year)
 
-- 6 tickets to the 2023 Hong Kong Web3 Carnival
-
   
+
 
 ##### **3rd Place Award  * 1**
 
 - 5,000 USDC
 - A $10,000 Alibaba Cloud voucher (valid for one year)
 
-- 6 tickets to the 2023 Hong Kong Web3 Carnival
 
  
 
@@ -263,7 +258,6 @@ The team that receives the most votes during the 2023 Hong Kong Web3 Carnival wi
 
 - 12,000 USDC
 - A $10,000 Alibaba Cloud voucher (valid for one year)
-- 6 tickets to the 2023 Hong Kong Web3 Carnival
 
  
 
@@ -272,7 +266,6 @@ The team that receives the most votes during the 2023 Hong Kong Web3 Carnival wi
 - 8,000 USDC
 - A $10,000 Alibaba Cloud voucher (valid for one year)
 
-- 6 tickets to the 2023 Hong Kong Web3 Carnival
 
  
 
@@ -280,7 +273,6 @@ The team that receives the most votes during the 2023 Hong Kong Web3 Carnival wi
 
 - 5,000 USDC
 - A $10,000 Alibaba Cloud voucher (valid for one year)
-- 6 tickets to the 2023 Hong Kong Web3 Carnival
 
 
 
