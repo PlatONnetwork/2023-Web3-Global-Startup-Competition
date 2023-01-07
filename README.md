@@ -80,7 +80,7 @@ Application deadline: **April 2, 2023**
 
 The finals will be hosted on **April 15, 2023**
 
- [Learn more](/5-Finals-2023_HongKong_Web3_Carnival/)
+ [Learn more](/5-Finals)
 
  
 
