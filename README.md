@@ -70,8 +70,6 @@ Application deadline: **March 19, 2023**
 
 Duration: **April 1, 2023 - April 2, 2023**
 
-Topic: 
-
 Application deadline: **March 26, 2023**
 
 [Learn more](/3-Tokyo/)
