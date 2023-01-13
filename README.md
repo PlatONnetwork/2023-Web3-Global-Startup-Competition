@@ -22,13 +22,13 @@ The competition features four global divisions: **Singapore**, **Bangkok**, **To
 
 **Financial infrastructure**
 
-Financial infrastructure provides essential support for the financial system of the Web3 world. You are required to develop secure, efficient, and creative projects based on blockchain and related technologies, thereby contributing to the sustainable development of the Web3 financial ecosystem. **
+Financial infrastructure provides essential support for the financial system of the Web3 world. You are required to develop secure, efficient, and creative projects based on blockchain and related technologies, thereby contributing to the sustainable development of the Web3 financial ecosystem. 
 
 
 
 **Technical Infrastructure**
 
-We invite outstanding developers around the world to explore underlying technologies in fields including Layer 2, decentralized data storage, computation, indexing, analysis, smart contracts, developer tools, and blockchain security and build creative, practical solutions. **
+We invite outstanding developers around the world to explore underlying technologies in fields including Layer 2, decentralized data storage, computation, indexing, analysis, smart contracts, developer tools, and blockchain security and build creative, practical solutions. 
 
 
 
