@@ -18,6 +18,26 @@ The competition features four global divisions: **Singapore**, **Bangkok**, **To
 
 
 
+### Topic-Web3 Innovation
+
+**Financial infrastructure**
+
+Financial infrastructure provides essential support for the financial system of the Web3 world. You are required to develop secure, efficient, and creative projects based on blockchain and related technologies, thereby contributing to the sustainable development of the Web3 financial ecosystem. **
+
+
+
+**Technical Infrastructure**
+
+We invite outstanding developers around the world to explore underlying technologies in fields including Layer 2, decentralized data storage, computation, indexing, analysis, smart contracts, developer tools, and blockchain security and build creative, practical solutions. **
+
+
+
+**Innovative Web3 Application **
+
+Focusing on popular Web3 applications, we will invite outstanding developers around the world to tap into their ingenuity and build creative applications to improve user experiences and bring more dynamics to the Web3 world. Contestants can build native Web2 applications or transform Web3 apps into more valuable Web3 apps using the tech features of blockchain.
+
+
+
 ### Applications Open in
 
  **January 2023**
@@ -30,8 +50,6 @@ The competition features four global divisions: **Singapore**, **Bangkok**, **To
 
 Duration: **March 18, 2023 - March 19, 2023**
 
-Topic: **Financial infrastructure** - **Financial infrastructure provides essential support for the financial system of the Web3 world. You are required to develop secure, efficient, and creative projects based on blockchain and related technologies, thereby contributing to the sustainable development of the Web3 financial ecosystem. **
-
 Application deadline: **March 12, 2023**
 
 [Learn more](/1-Singapore/)
@@ -41,8 +59,6 @@ Application deadline: **March 12, 2023**
 #### Stop 2: Bangkok
 
 Duration: **March 25, 2023 - March 26, 2023**
-
-Topic: **Technical Infrastructure - We invite outstanding developers around the world to explore underlying technologies in fields including Layer 2, decentralized data storage, computation, indexing, analysis, smart contracts, developer tools, and blockchain security and build creative, practical solutions. **
 
 Application deadline: **March 19, 2023**
 
@@ -54,7 +70,7 @@ Application deadline: **March 19, 2023**
 
 Duration: **April 1, 2023 - April 2, 2023**
 
-Topic: **Innovative Web3 Application - Focusing on popular Web3 applications, we will invite outstanding developers around the world to tap into their ingenuity and build creative applications to improve user experiences and bring more dynamics to the Web3 world. Contestants can build native Web2 applications or transform Web3 apps into more valuable Web3 apps using the tech features of blockchain.**
+Topic: 
 
 Application deadline: **March 26, 2023**
 
@@ -66,15 +82,13 @@ Application deadline: **March 26, 2023**
 
 Duration: **April 8, 2023 - April 9, 2023**
 
-Topic: **You can choose any one of the three categories,  including Technical Infrastructure, Financial Infrastructure, and Innovative Web3 Application.** 
-
 Application deadline: **April 2, 2023**
 
  [Learn more](/4-HongKong/)
 
  
 
- 
+
 
 #### Grand Finals 
 
@@ -223,21 +237,19 @@ The review committee will score the entries and select the award winners based o
 
 
 
-
-
-#### Singapore, Bangkok, and Tokyo (three awards for each division)
+#### Singapore, Bangkok, Tokyo, and Hong Kong(three awards for each division)
 
 ##### **1st Place Award  * 1**
 
-- 12,000 USDC
+- 15,000 USDC
 - A $10,000 Alibaba Cloud voucher (valid for one year)
-- Travel subsidy (3,000 USDC)
+- Travel subsidy (3,000 USDC,Exclude Hong Kong)
 
 
 
 ##### **2nd Place Award  * 1**
 
-- 8,000 USDC
+- 10,000 USDC
 
 - A $10,000 Alibaba Cloud voucher (valid for one year)
 
@@ -250,31 +262,6 @@ The review committee will score the entries and select the award winners based o
 - A $10,000 Alibaba Cloud voucher (valid for one year)
 
 
- 
-
-#### Hong Kong (three awards for each category)
-
-##### **1st Place Award * 1**
-
-- 12,000 USDC
-- A $10,000 Alibaba Cloud voucher (valid for one year)
-
- 
-
-##### **2nd Place Award * 1**
-
-- 8,000 USDC
-- A $10,000 Alibaba Cloud voucher (valid for one year)
-
-
- 
-
-##### **3rd Place Award * 1**
-
-- 5,000 USDC
-- A $10,000 Alibaba Cloud voucher (valid for one year)
-
-
 
 **Every team that has passed the review and is shortlisted can apply for a $1,000 Alibaba Cloud voucher for event preparation**. 
 
@@ -282,15 +269,15 @@ The review committee will score the entries and select the award winners based o
 
 #### Special Awards
 
-- **Web3 Middleware Service Award (5,000 USDC)）**
+- **Web3 Middleware Service Award (15,000 USDC)）**
 
   The award will be given to the best project for promoting the development of innovative Web3 tools and platforms by providing professional services for global developers in fields covering middleware and developer toolkits.
 
-- **Security bug bounty (5,000 USDC)**
+- **Security bug bounty (15,000 USDC)**
 
   An incentive for submitting effective bug reports on Alibaba Cloud's Nodeapi service.
   
-- **DID applicability and compatibility (5,000 USDC)**
+- **DID applicability and compatibility (15,000 USDC)**
 
   The award will be given to the best DeFi project (dex lending) that requires KYC and uses DID or the best DID-based socialFi project, such as a lens-based Dapp
   

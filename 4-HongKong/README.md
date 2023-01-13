@@ -6,18 +6,6 @@ Application deadline: **April 2, 2023**
 
 
 
-## Topic
-
-You can choose any one of the three categories,  including Technical Infrastructure, Financial Infrastructure, and Innovative Web3 Application.
-
-- **Financial infrastructure** - Financial infrastructure provides essential support for the financial system of the Web3 world. You are required to develop secure, efficient, and creative projects based on blockchain and related technologies, thereby contributing to the sustainable development of the Web3 financial ecosystem. 
-
-- **Technical Infrastructure** - We invite outstanding developers around the world to explore underlying technologies in fields including Layer 2, decentralized data storage, computation, indexing, analysis, smart contracts, developer tools, and blockchain security and build creative, practical solutions. 
-
-- **Innovative Web3 Application** - Focusing on popular Web3 applications, we will invite outstanding developers around the world to tap into their ingenuity and build creative applications to improve user experiences and bring more dynamics to the Web3 world. Contestants can build native Web2 applications or transform Web3 apps into more valuable Web3 apps using the tech features of blockchain.
-
-
-
 ## Competition schedule
 
 

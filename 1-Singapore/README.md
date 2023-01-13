@@ -6,12 +6,6 @@ Application deadline: **March 12, 2023**
 
 
 
-## Topic
-
-**Financial infrastructure** - Financial infrastructure provides essential support for the financial system of the Web3 world. You are required to develop secure, efficient, and creative projects based on blockchain and related technologies, thereby contributing to the sustainable development of the Web3 financial ecosystem. 
-
-
-
 ## Competition schedule
 
 
