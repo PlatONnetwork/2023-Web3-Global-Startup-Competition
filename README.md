@@ -241,7 +241,7 @@ The review committee will score the entries and select the award winners based o
 
 - 15,000 USDC
 - A $10,000 Alibaba Cloud voucher (valid for one year)
-- Travel subsidy (3,000 USDC,Exclude Hong Kong)
+- Travel subsidy (3,000 USDC,Exclude Team Hong Kong)
 
 
 
