@@ -94,6 +94,7 @@ Application deadline: **April 2, 2023**
 
 Award-winning teams from all four divisions will gather in Hong Kong for the grand finals and award ceremony on the last day of the 2023 Hong Kong Web3 Festival.
 
+
 The finals will be hosted on **April 15, 2023**
 
  [Learn more](/5-Finals)
@@ -136,6 +137,7 @@ Hong Kong: **April 2, 2023**
 
 - After applications end, we will screen all applicants and send confirmation emails to the qualified applicants starting from February 15.
 - How to join the participant channel?
+
   Once your application becomes successful, we will whitelist the address(es) you provided in the registration form to claim the special credential in the form of a non-transferrable NFT, that will give you access to the exclusive participant channel on our discord community.
 - Individual contestants need to team up with contestants in the designated Discord channel ([Discord](https://discord.gg/KHmAj99fdE)) and submit the team information (the application form to be updated) before the specified deadline, failing which the contestant's qualification will be annulled.
 - Contestants who pass the screening will be invited to join our official Discord and TG groups, and the  subsequent arrangements and notices will be announced in the groups.
@@ -258,9 +260,7 @@ The team that receives the most votes during the 2023 Hong Kong Web3 Festival wi
 ##### **2nd Place Award  * 1**
 
 - 10,000 USDC
-
 - 6 tickets to the 2023 Hong Kong Web3 Festival
-
 - A $10,000 Alibaba Cloud voucher (valid for one year)
 
   
