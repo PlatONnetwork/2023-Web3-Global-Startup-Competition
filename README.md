@@ -14,7 +14,9 @@ Focusing on the most prominent demands of the Web3 industry, the 2023 Web3 Globa
 
 The 2023 Web3 Global Startup Competition is co-hosted by Alibaba Cloud, PlatON, and HashKey Group.
 
-The competition features four global divisions: **Singapore**, **Bangkok**, **Tokyo**, and **Hong Kong, China**, and contestants may choose the division nearest to them.
+The competition features four global divisions: **Singapore**, **Bangkok**, **Tokyo**, and **Hong Kong, China**, and contestants may choose the division nearest to them. All award-winning teams from each division will gather at the **2023 Hong Kong Web3 Festival** to present their projects. We believe that the teams will add to the Carnival's splendor with their creative, valuable projects and bring outstanding talents to Hong Kong's Web3 community.
+
+
 
 
 
@@ -88,7 +90,9 @@ Application deadline: **April 2, 2023**
 
 
 
-#### Grand Finals 
+#### Grand Finals  - 2023 Hong Kong Web3 Festival 
+
+Award-winning teams from all four divisions will gather in Hong Kong for the grand finals and award ceremony on the last day of the 2023 Hong Kong Web3 Festival.
 
 The finals will be hosted on **April 15, 2023**
 
@@ -131,6 +135,8 @@ Hong Kong: **April 2, 2023**
 #### c. Application Review
 
 - After applications end, we will screen all applicants and send confirmation emails to the qualified applicants starting from February 15.
+- How to join the participant channel?
+  Once your application becomes successful, we will whitelist the address(es) you provided in the registration form to claim the special credential in the form of a non-transferrable NFT, that will give you access to the exclusive participant channel on our discord community.
 - Individual contestants need to team up with contestants in the designated Discord channel ([Discord](https://discord.gg/KHmAj99fdE)) and submit the team information (the application form to be updated) before the specified deadline, failing which the contestant's qualification will be annulled.
 - Contestants who pass the screening will be invited to join our official Discord and TG groups, and the  subsequent arrangements and notices will be announced in the groups.
 - When submitting your application, be sure to provide the required information, and applications with clear information regarding the background, value, and implementation of the project will be preferred.
@@ -229,9 +235,11 @@ The review committee will score the entries and select the award winners based o
 
 #### Grand Finals
 
-##### World Champion *1
+##### Grand Champion *1
 
 **20,000 USDC**
+
+The team that receives the most votes during the 2023 Hong Kong Web3 Festival will be the World Champion.
 
 
 
@@ -240,6 +248,8 @@ The review committee will score the entries and select the award winners based o
 ##### **1st Place Award  * 1**
 
 - 15,000 USDC
+- A 10-min speaking slot at the sub-stage of the 2023 Hong Kong Web3 Festival
+- 6 tickets to the 2023 Hong Kong Web3 Festival
 - A $10,000 Alibaba Cloud voucher (valid for one year)
 - Travel subsidy (3,000 USDC,Exclude Team Hong Kong)
 
@@ -249,6 +259,8 @@ The review committee will score the entries and select the award winners based o
 
 - 10,000 USDC
 
+- 6 tickets to the 2023 Hong Kong Web3 Festival
+
 - A $10,000 Alibaba Cloud voucher (valid for one year)
 
   
@@ -257,6 +269,7 @@ The review committee will score the entries and select the award winners based o
 ##### **3rd Place Award  * 1**
 
 - 5,000 USDC
+- 6 tickets to the 2023 Hong Kong Web3 Festival
 - A $10,000 Alibaba Cloud voucher (valid for one year)
 
 
