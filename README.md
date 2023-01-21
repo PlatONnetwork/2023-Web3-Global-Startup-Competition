@@ -186,7 +186,7 @@ a. You are required to submit the following:
 
 b. You are required to place the above files in your personal project folder (note: please change the name of the folder to your project name) under the relevant division folder of the official GitHub repository. [Click here to check out the Submission Guidelines](/Developer_Library/Project_Submission_Guidelines.md).
 
-*Note: If you don't wish to publicly disclose your PowerPoint presentation, you may also send the files to our official mailbox.*
+*Note: If you don't wish to publicly disclose your PowerPoint presentation, you may also send the files to our official mailbox. Please label Subject of email with location and team name when submitting to info@hapathon.com*
 
 https://github.com/PlatONnetwork/2023-Web3-Global-Startup-Competition
 
