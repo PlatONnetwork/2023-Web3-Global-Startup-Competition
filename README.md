@@ -280,15 +280,15 @@ The team that receives the most votes during the 2023 Hong Kong Web3 Festival wi
 
 #### Special Awards
 
-- **Web3 Middleware Service Award (15,000 USDC)）**
+- **Web3 Middleware Service Award (12,000 USDC)）**
 
   The award will be given to the best project for promoting the development of innovative Web3 tools and platforms by providing professional services for global developers in fields covering middleware and developer toolkits.
 
-- **Security bug bounty (15,000 USDC)**
+- **Security bug bounty (12,000 USDC)**
 
   An incentive for submitting effective bug reports on Alibaba Cloud's Nodeapi service.
   
-- **DID applicability and compatibility (15,000 USDC)**
+- **DID applicability and compatibility (12,000 USDC)**
 
   The award will be given to the best DeFi project (dex lending) that requires KYC and uses DID or the best DID-based socialFi project, such as a lens-based Dapp
   
