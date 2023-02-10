@@ -50,7 +50,7 @@ Focusing on popular Web3 applications, we will invite outstanding developers aro
 
 #### Stop 1: Singapore
 
-Duration: **March 18, 2023 - March 19, 2023**
+Competition date: **March 18, 2023**
 
 Application deadline: **March 12, 2023**
 
@@ -60,7 +60,7 @@ Application deadline: **March 12, 2023**
 
 #### Stop 2: Bangkok
 
-Duration: **March 25, 2023 - March 26, 2023**
+Competition date: **March 25, 2023**
 
 Application deadline: **March 19, 2023**
 
@@ -70,7 +70,7 @@ Application deadline: **March 19, 2023**
 
 #### Stop 3: Tokyo
 
-Duration: **April 1, 2023 - April 2, 2023**
+Competition date: **April 2, 2023**
 
 Application deadline: **March 26, 2023**
 
@@ -80,7 +80,7 @@ Application deadline: **March 26, 2023**
 
 #### Stop 4: Hong Kong
 
-Duration: **April 8, 2023 - April 9, 2023**
+Competition date: **April 8, 2023**
 
 Application deadline: **April 2, 2023**
 
