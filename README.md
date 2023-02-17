@@ -80,7 +80,7 @@ Application deadline: **March 26, 2023**
 
 #### Stop 4: Hong Kong
 
-Competition date: **April 8, 2023**
+Competition date: **April 11, 2023**
 
 Application deadline: **April 2, 2023**
 
