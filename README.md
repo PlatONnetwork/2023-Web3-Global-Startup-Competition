@@ -200,7 +200,7 @@ a. Contestants can choose to present their project online or offline, but all aw
 
 b. Each team can only have 2-6 members;
 
-c. The competition only accepts projects that have not conducted any fundraising campaigns;
+c. The competition only accepts projects that are not incubated or have not completed series A funding. The ogranizer reserves the right to reject any teams to join the competition;
 
 d. The competition encourages innovative projects and ideas, and the workload during the competition will be one of the major evaluation metrics;
 
