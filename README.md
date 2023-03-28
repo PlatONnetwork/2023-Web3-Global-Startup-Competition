@@ -152,13 +152,13 @@ Once your application is approved, you should get started with project developme
 
 **Timetables:**
 
-Singapore: **March 18, 2023 - March 19, 2023**
+Singapore: **March 18, 2023**
 
-Bangkok: **March 25, 2023 - March 26, 2023**
+Bangkok: **March 25, 2023**
 
-Tokyo: **April 1, 2023 - April 2, 2023**
+Tokyo: **April 2, 2023**
 
-Hong Kong: **April 8, 2023 - April 9, 2023**
+Hong Kong: **April 11, 2023**
 
 
 
