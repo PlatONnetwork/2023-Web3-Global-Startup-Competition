@@ -22,7 +22,4 @@ There are three parts to the source code: the smart contract, API, and frontend.
 - https://www.youtube.com/watch?v=InYBD3drkis
 - https://www.youtube.com/watch?v=RV0MK8y3xJc
 
-
-## License
-
-[MIT](./LICENSE)
+ 
